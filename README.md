@@ -14,11 +14,11 @@ Este proyecto es sólo un ejemplo de uso de A-Frame. Si quieres puedes ver el v�
 
 ## Algunos conceptos previos
 
-* Concepto de Realidad Virtual
+### Concepto de Realidad Virtual
 
 Según la Wikipedia, la realidad virtual (RV) es un entorno de escenas u objetos de apariencia real.
 
-* 3Dof vs 6Dof, e imágenes 360º
+### 3Dof vs 6Dof, e imágenes 360º
 
 Distinguir entre 3DOF (3 grados de libertad) y 6DOF (6 grados de libertad):
 
@@ -28,17 +28,17 @@ La imagen es del siguiente enlace que lo explica muy bien: https://packet39.com/
 
 Las imágenes 360º tienen 3Dof.
 
-* WebGL -> Three.js --> A-Frame
+### WebGL -> Three.js --> A-Frame
 
 Según su propia web, https://aframe.io/docs/1.0.0/introduction/, A-Frame es un framework para la web que permite crear experiencias de realidad virtual.
 
 Se basa en Three.js, que a su vez hace uso de WebGL (librería para crear gráficos con JavaScript).
 
-* WebVR/AR/XR
+### WebVR/AR/XR
 
 WebXR es aún un draft (borrador) de W3C para crear experiencias virtuales en la Web. Engloba WebVR y WebAR.
 
-* Posicionamiento en A-Frame
+### Posicionamiento en A-Frame
 
 Una imagen vale más que mil palabras:
 
@@ -46,9 +46,8 @@ Una imagen vale más que mil palabras:
 
 Aquí puedes encontrar más detalles: https://aframe.io/docs/1.0.0/guides/building-a-basic-scene.html
 
-* 
 
-### Prerequisitos
+## Prerequisitos
 
 Lo que necesitas es tiempo... mucho tiempo... y...
 
@@ -57,18 +56,18 @@ Lo que necesitas es tiempo... mucho tiempo... y...
 * Estaría bien tener unas gafas VR de google ("Cardboard").
 * Más horas de las que pensarías en un principio...
 
-### Pasos a seguir en la creación de este proyecto
+## Pasos a seguir en la creación de este proyecto
 
 * PASO 1: Entender qué es Realidad Virtual (RV).
 * PASO 2: Usar Street View Download 360 para descargar una imagen 360º de Google Street View.
 * PASO 3: Crear una escena con una imagen de 360º con A-Frame.
-* PASO 4: Probar la escena en Glitch.
+* PASO 4: Probar la escena con Glitch.
 * PASO 3: Crear un plano con un texto.
 * PASO 4: Entender las entidades y componentes.
 * PASO 5: Entender las entidades y componentes.
 
 
-### Y ahora qué...
+## Y ahora qué...
 
 Después de este tutorial es interesante que sigas las guías del propio sitio de A-Frame de dónde he sacado la mayor parte de la información de partida de este proyecto:
 

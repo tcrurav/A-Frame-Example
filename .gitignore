@@ -65,4 +65,4 @@ node_modules/
 .env
 
 # my tests
-pruebas/
+tests/
