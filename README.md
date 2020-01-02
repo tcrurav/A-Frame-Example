@@ -61,7 +61,7 @@ Lo que necesitas es tiempo... mucho tiempo... y...
 * PASO 1: Entender qué es Realidad Virtual (RV).
 * PASO 2: Usar Street View Download 360 para descargar una imagen 360º de Google Street View.
 * PASO 3: Crear una escena con una imagen de 360º con A-Frame.
-* PASO 4: Probar la escena con Glitch.
+* PASO 4: Probar la escena con XAMPP.
 * PASO 3: Crear un plano con un texto.
 * PASO 4: Entender las entidades y componentes.
 * PASO 5: Entender las entidades y componentes.
@@ -75,18 +75,18 @@ Después de este tutorial es interesante que sigas las guías del propio sitio d
 * Building a 360° Image Gallery (https://aframe.io/docs/1.0.0/guides/building-a-360-image-gallery.html).
 * Building a Minecraft Demo (https://aframe.io/docs/1.0.0/guides/building-a-minecraft-demo.html).
 
-## Built With
+## Creado con
 
 * [Visual Studio Code](https://code.visualstudio.com/) - El editor usado en este proyecto.
 * [A-Frame](https://aframe.io/) - Un framework web para crear experiencias de realidad virtual.
 * [Street View Download 360](https://svd360.istreetview.com/) - Herramienta para capturar y descargar imágenes 360º de Google Street View.
 * [Firebase](https://www.purebasic.fr/english/viewtopic.php?f=27&t=50248) - Usaremos firebase para el despliegue de nuestro ejemplo. (Uso de hosting con Firebase)
-* [XAMMP](https://www.apachefriends.org/es/index.html) - Crea un servidor HTTP para realizar las pruebas en local.
+* [XAMPP](https://www.apachefriends.org/es/index.html) - Crea un servidor HTTP para realizar las pruebas en local.
 * [Glitch](https://glitch.com/) - Permite probar y desplegar tus proyectos implementando un servidor HTTPs.
 * [Voxedit](https://www.voxedit.io/) - Permite editar ficheros en formato Vox y exportarlos a diferentes formatos como gltf.
 * [Audacity](https://audacity.es/) - Permite editar sonidos. Utilizado aquí para convertir a formato ogg y reducir el tamaño de los ficheros de sonido.
 
-## Acknowledgments
+## Reconocimientos
 
 * https://github.com/aframevr/aframe/blob/master/docs/components/sound.md. Projecto muy interesante que explica el uso de los sonidos con A-Frame.
 * https://freesound.org/. Un excelente repositorio de sonidos.
