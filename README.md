@@ -6,11 +6,6 @@ Este proyecto muestra un ejemplo sencillo de realidad virtual usando A-Frame.
 
 Para empezar con A-Frame lo mejor es visitar su completa web que incluye muchísimos recursos interesantes para su aprendizaje. https://aframe.io/
 
-Este proyecto es sólo un ejemplo de uso de A-Frame. Si quieres puedes ver el vídeo explicativo de cómo se hizo colgado en:
-
-```
-
-```
 
 ## Algunos conceptos previos
 
