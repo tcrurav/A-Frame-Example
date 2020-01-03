@@ -53,6 +53,12 @@ Lo que necesitas es tiempo... mucho tiempo... y...
 
 ## Pasos a seguir en la creación de este proyecto
 
+Puedes seguir la creación de este proyecto con el vídeo explicativo subido a YouTube:
+
+```
+https://youtu.be/GHzStTeFztM
+```
+
 * PASO 1: Entender qué es Realidad Virtual (RV), qué es A-Frame. 
 * PASO 2: Usar Street View Download 360 para descargar una imagen 360º de Google Street View.
 * PASO 3: Crear una escena(a-scene) con una imagen de 360º(a-sky) con A-Frame.
